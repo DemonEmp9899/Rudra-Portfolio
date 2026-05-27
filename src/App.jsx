@@ -1020,7 +1020,7 @@ export default function Portfolio() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className={`card-glow rounded-2xl p-7 transition-all duration-700 delay-100 ${vis('about')}`}>
             <p className="text-gray-300 leading-relaxed mb-5">
-          I'm a final-year B.Tech CSE student at <span className="text-violet-300 font-semibold">Bennett University</span> (CGPA 7.5) specialising in AI/ML.
+          I'm a final-year B.Tech CSE student at <span className="text-violet-300 font-semibold">Bennett University</span> specialising in AI/ML.
           I've shipped production systems at <span className="text-teal-400 font-semibold">Trovex.ai</span>, published research at <span className="text-amber-400 font-semibold">IEEE</span> and <span className="text-amber-400 font-semibold">MAITRI</span>, and I thrive at the intersection of rigorous engineering and creative problem-solving.
         </p>
         <p className="text-gray-300 leading-relaxed">
